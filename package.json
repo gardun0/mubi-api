@@ -1,0 +1,28 @@
+{
+  "name": "mubi-api",
+  "version": "0.0.1",
+  "description": "Open and colaborative movies platform.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notapineapple/mubi-api.git"
+  },
+  "keywords": [
+    "movies",
+    "api",
+    "js",
+    "es6",
+    "open",
+    "free",
+    "torrent"
+  ],
+  "author": "Jorge Garduño <notapineapple>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/notapineapple/mubi-api/issues"
+  },
+  "homepage": "https://github.com/notapineapple/mubi-api#readme"
+}
